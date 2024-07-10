@@ -24,7 +24,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 -   Testing :
     [![jest][jest]][Jest-url]
     [![postman][postman]][Postman-url]
--   Other :
+-   Version Control :
     [![git][git]][Git-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
