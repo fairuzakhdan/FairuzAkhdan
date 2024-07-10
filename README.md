@@ -1,5 +1,9 @@
 
-## Hey 👋, This is Fairuz Akhdan
+## Hi everyone!
+
+### My name is **Fairuz Akhdan**.
+I'am an Informatics Engineering student with a main interest in software engineering. I really enjoy exploring new concepts and continually improving my understanding and skills in this area. In addition, I have experience as a leader in independent study projects, focusing on back end development
+
 [![linkedin][linkedin]](https://www.linkedin.com/in/fairuz-akhdan-1aa2a51a5)
 [![github][github]](https://github.com/fairuzakhdan)
 [![mail][mail]](mailto:fairuzakhdan01@gmail.com)
