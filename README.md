@@ -12,7 +12,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 ### ⚙️ Development Technologies And Tools
 
 [![javascript][javascript]][Javascript-url] [![Node.js][NodeJS]][NodeJS-url]
-[![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url] [![express][express]][Express-url] [![hapi][hapi]][Hapi-url] [![jest][jest]][Jest-url] [![postman][postman]][Postman-url] [![git][git]][Git-url] ![html5] ![css3] ![jwt] ![npm] ![github] ![eslint] ![vscode] ![json] ![bootstrap] ![tailwind] ![md]
+[![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url] [![express][express]][Express-url] [![hapi][hapi]][Hapi-url] [![jest][jest]][Jest-url] [![postman][postman]][Postman-url] [![git][git]][Git-url] ![html5] ![css3] ![jwt] ![npm] ![github] ![eslint] ![vscode] ![json] ![bootstrap] ![tailwind] ![md] ![sass]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -51,3 +51,4 @@ I'am an Informatics Engineering student with a main interest in software enginee
 [tailwind]: https://camo.githubusercontent.com/47f843a71fe6cc8a9166c41e8dd0448eaa10177f0d5e2c128690e6fe953c89c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465
 [vscode]: https://camo.githubusercontent.com/2bcd08e61802093dd84b3d8e5099d81c02c892a73c548d037e5589183ef85588/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f267374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465
 [md]: https://camo.githubusercontent.com/836e0b69e70e4620ddeae99dc99913f5ccbc7cfff6e854587f0d9a6512ce996d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465
+[sass]: https://camo.githubusercontent.com/ce0d3c1da502dcf16ea5aa734ebdd983ed9a4a4fe884fdb00e9a896ef0aa7789/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465
