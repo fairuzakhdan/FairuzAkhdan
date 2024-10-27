@@ -2,7 +2,7 @@
 ## Hi everyone!
 
 ### My name is **Fairuz Akhdan**.
-I'am an Informatics Engineering student with a main interest in software engineering. I really enjoy exploring new concepts and continually improving my understanding and skills in this area.
+I'am an Informatics Engineering student with a main interest in software engineering. I really enjoy exploring new concepts and continually improving my understanding and skills in this area. In addition, I have experience as a leader in independent study projects, focusing on back end development
 
 [![linkedin][linkedin]](https://www.linkedin.com/in/fairuz-akhdan-1aa2a51a5)
 [![github][github]](https://github.com/fairuzakhdan)
@@ -11,15 +11,20 @@ I'am an Informatics Engineering student with a main interest in software enginee
 
 
 ### ⚙️ Development Technologies And Tools
+-   Language :
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
     [![typescript][typescript]][Typescript-url]
+-   Database :
     [![MySQL][MySQL]][MySQL-url]
     [![mongo][mongo]][Mongo-url]
+-   Framework :
     [![express][express]][Express-url]
     [![hapi][hapi]][Hapi-url]
+-   Testing :
     [![jest][jest]][Jest-url]
     [![postman][postman]][Postman-url]
+-   Version Control :
     [![git][git]][Git-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
