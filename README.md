@@ -14,7 +14,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 -  
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
-    [![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url] [![express][express]][Express-url] [![hapi][hapi]][Hapi-url] [![jest][jest]][Jest-url] [![postman][postman]][Postman-url] [![git][git]][Git-url] ![css3] ![jwt] ![npm]
+    [![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url] [![express][express]][Express-url] [![hapi][hapi]][Hapi-url] [![jest][jest]][Jest-url] [![postman][postman]][Postman-url] [![git][git]][Git-url] ![css3] ![jwt] ![npm] ![github] ![eslint]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -45,5 +45,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 [css3]: https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465
 [jwt]: https://camo.githubusercontent.com/6eff46a364eba690cb91a9f40084d97f96bf95699f3cb7722125dc1dc324fde1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73
 [npm]: https://camo.githubusercontent.com/51b46228f89e7ba8bd0233eb5339a210d4fad5ab1e73d493808764b719718f89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465
+[github]: https://camo.githubusercontent.com/66f65b624ead72f1e24e692af13a63b62b63c87be522ca42438ef2367693ecd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465
+[eslint]: https://camo.githubusercontent.com/691b9601ade80696552dd78a380b46554b7c0704de591803beb409a7fa111ab4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333236333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465
 
 
