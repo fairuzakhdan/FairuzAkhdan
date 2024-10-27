@@ -10,21 +10,16 @@ I'am an Informatics Engineering student with a main interest in software enginee
 [![instagram][instagram]](https://www.instagram.com/fairuzakhdann)
 
 
-### ⚙️ Development Technologies
--   Language :
+### ⚙️ Development Technologies And Tools
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
     [![typescript][typescript]][Typescript-url]
--   Database :
     [![MySQL][MySQL]][MySQL-url]
     [![mongo][mongo]][Mongo-url]
--   Framework :
     [![express][express]][Express-url]
     [![hapi][hapi]][Hapi-url]
--   Testing :
     [![jest][jest]][Jest-url]
     [![postman][postman]][Postman-url]
--   Version Control :
     [![git][git]][Git-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
