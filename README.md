@@ -15,16 +15,16 @@ I'am an Informatics Engineering student with a main interest in software enginee
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
     [![typescript][typescript]][Typescript-url]
--   Database :
+-   
     [![MySQL][MySQL]][MySQL-url]
     [![mongo][mongo]][Mongo-url]
--   Framework :
+-   
     [![express][express]][Express-url]
     [![hapi][hapi]][Hapi-url]
--   Testing :
+-   
     [![jest][jest]][Jest-url]
     [![postman][postman]][Postman-url]
--   Version Control :
+-   
     [![git][git]][Git-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
