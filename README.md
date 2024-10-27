@@ -11,7 +11,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 
 
 ### ⚙️ Development Technologies And Tools
--  
+!  
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
     [![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url] [![express][express]][Express-url] [![hapi][hapi]][Hapi-url] [![jest][jest]][Jest-url] [![postman][postman]][Postman-url] [![git][git]][Git-url] ![html5] ![css3] ![jwt] ![npm] ![github] ![eslint] ![vscode] ![json] ![bootstrap] ![tailwind] ![md]
