@@ -14,10 +14,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 -  
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
-    [![typescript][typescript]][Typescript-url]
--   
-    [![MySQL][MySQL]][MySQL-url]
-    [![mongo][mongo]][Mongo-url]
+    [![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url]
 -   
     [![express][express]][Express-url]
     [![hapi][hapi]][Hapi-url]
