@@ -14,7 +14,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 -  
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
-    [![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url] [![express][express]][Express-url] [![hapi][hapi]][Hapi-url] [![jest][jest]][Jest-url] [![postman][postman]][Postman-url] [![git][git]][Git-url] ![html5]![css3]![jwt]![npm]![github]![eslint]![bootstrap]
+    [![typescript][typescript]][Typescript-url] [![MySQL][MySQL]][MySQL-url] [![mongo][mongo]][Mongo-url] [![express][express]][Express-url] [![hapi][hapi]][Hapi-url] [![jest][jest]][Jest-url] [![postman][postman]][Postman-url] [![git][git]][Git-url] ![html5] ![css3] ![jwt] ![npm] ![github] ![eslint] ![json] ![bootstrap]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -48,6 +48,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 [npm]: https://camo.githubusercontent.com/51b46228f89e7ba8bd0233eb5339a210d4fad5ab1e73d493808764b719718f89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465
 [github]: https://camo.githubusercontent.com/66f65b624ead72f1e24e692af13a63b62b63c87be522ca42438ef2367693ecd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465
 [eslint]: https://camo.githubusercontent.com/691b9601ade80696552dd78a380b46554b7c0704de591803beb409a7fa111ab4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333236333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465
+[json]: https://camo.githubusercontent.com/183ce78959be3d3118c5f24f5af482f1f97508d291a9703ca3a1d535222f9b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a534f4e2d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465
 [bootstrap]: https://camo.githubusercontent.com/7fc2a60a98c8d49676a479d0ae886c97135b656352a5756b8bb4aff9aa8d9134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465
 
 
