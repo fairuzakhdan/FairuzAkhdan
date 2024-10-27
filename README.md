@@ -11,7 +11,7 @@ I'am an Informatics Engineering student with a main interest in software enginee
 
 
 ### ⚙️ Development Technologies And Tools
-
+-  
     [![javascript][javascript]][Javascript-url]
     [![Node.js][NodeJS]][NodeJS-url]
     [![typescript][typescript]][Typescript-url]
